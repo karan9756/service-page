@@ -1,0 +1,158 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background-color: white;
+    color: black;
+    /* font-family: 'Belanosima', sans-serif; */
+    /* font-family: 'Lugrasimo', cursive; */
+}
+.container{
+    background-image: url('/pet9.jpg');
+    background-repeat: round;
+    background-color: lightgreen;
+    width: 1460px;
+    height: 330px;
+    padding: 0rem;
+    
+}
+.image{
+    width: 50%;
+    height: 330px;
+    margin-top: 120px;
+    object-fit: fill;
+}
+.container h1{
+    margin:0px 99px -50px 103px;
+    text-align: center;
+    color: black;
+}
+.container h2{
+    margin: 50px 100px;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(50, 37, 37);
+}
+.container p{
+    margin: 120px 0px 0px 680px;
+    color: black;
+    font-weight: bold;
+}
+#right{
+    width: 40%;
+    float: right;
+    margin-top: 50px;
+    font-size: 18px;
+}
+#right h1{
+    font-weight: bold;
+    font-size: 50px;
+}
+.btn1{
+    background-color: yellowgreen;
+    color: rgb(241, 26, 26);
+    font-size: 25px;
+    margin-top: 10px;
+    cursor: pointer;
+    padding: 5px;
+    border: 3px solid black;
+}
+.btn1:hover{
+    color: white;
+    background-color: blue;
+}
+.service h1{
+    margin-top: 500px;
+    text-align: center;
+    color: darkblue;
+}
+.service{
+    text-align: center;
+}
+.image2{
+    width: 40%;
+    height: 330px;
+    margin-top: 50px;
+    margin-left: 20px;
+    object-fit: fill;
+}
+.image_text h2{
+    text-align: center;
+    width: 40%;
+    font-size: 25px;
+    color: forestgreen;
+}
+.image_text p{
+    width: 40%;
+    margin-left: 10px;
+}
+.image_text3 img{
+    display: flex;
+    position: absolute;
+    float: right;
+    width: 40%;
+    height: 330px;
+    margin: -423px 0px 0px 790px;
+}
+.image_text3 h2{
+    float: right;
+    margin: -90px 200px 0px 0px;
+    color: forestgreen;
+}
+.image_text3 p{
+    width: 40%;
+    float: right;
+   margin: -55px 90px 0px 0px;
+}
+.image_text4 img{
+    /* display: flex;
+    position: absolute; */
+    width: 40%;
+    height: 330px;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+.image_text4 h2{
+    color: forestgreen;
+    text-align: center;
+    width: 40%;
+    margin-left: 20px;
+}
+.image_text4 p{
+    width: 40%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.image_text5 img{
+    display: flex;
+    position: absolute;
+    float: right;
+    width: 40%;
+    height: 330px;
+    margin: -423px 0px 0px 790px;
+}
+.image_text5 h2{
+    color: forestgreen;
+    float: right;
+    margin: -90px 270px 0px 0px;
+}
+.image_text5 p{
+    width: 40%;
+    float: right;
+    margin: -55px 90px 0px 0px;
+}
+.lastpic{
+    width: 100%;
+    height: 600px;
+    margin-top: 25px;
+}
+.form{
+    position: relative;
+    background-color:rgb(252, 226, 226);
+    height: 300px;
+    width: 30%;
+    margin: -600px 0px 0px 20px;
+    text-align: center;
+}
